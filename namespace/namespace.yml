@@ -1,0 +1,12 @@
+- dir: vendor
+  httpauth: admin1:admin
+  allowUpload: true
+  allowDelete: true
+- dir: testdata
+  httpauth: admin2:admin
+  allowUpload: true
+  allowDelete: true
+- dir: namespace
+  httpauth: admin3:admin
+  allowUpload: true
+  allowDelete: true

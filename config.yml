@@ -1,0 +1,13 @@
+---
+addr: ":8000"
+title: "- %v -"
+theme: green
+debug: true
+xheaders: true
+cors: true
+upload: true
+root: ./
+google-tracker-id:
+title_ip: 127.0.0.1  # 这个ip会显示在页面标题上
+httpauth: admin:admin
+namespace: false

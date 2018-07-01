@@ -1,0 +1,1 @@
+go run main.go bindata_assetfs.go httpstaticserver.go ipa.go  res_nobindata.go res.go utils.go zip.go --conf=config.yml
