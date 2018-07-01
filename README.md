@@ -2,6 +2,8 @@
 
 Forked and augmented from [gohttpserver](https://github.com/codeskyblue/gohttpserver)
 
+---
+
 Make the best HTTP File Server. Better UI, upload support, apple&android install package qrcode generate.
 
 [Demo site](https://gohttpserver.herokuapp.com/)
