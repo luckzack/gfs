@@ -1,5 +1,6 @@
-# gohttpserver
-[![Build Status](https://travis-ci.org/codeskyblue/gohttpserver.svg?branch=master)](https://travis-ci.org/codeskyblue/gohttpserver)
+# GolangFileServer
+
+Forked and augmented from [gohttpserver](https://github.com/codeskyblue/gohttpserver)
 
 Make the best HTTP File Server. Better UI, upload support, apple&android install package qrcode generate.
 
