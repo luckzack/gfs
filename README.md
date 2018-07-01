@@ -1,6 +1,6 @@
 # GolangFileServer
 
-Forked and augmented from [gohttpserver](https://github.com/codeskyblue/gohttpserver)
+Forked and augmented from [gohttpserver](https://github.com/codeskyblue/gohttpserver).
 
 ---
 
