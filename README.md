@@ -2,6 +2,11 @@
 
 Forked and augmented from [gohttpserver](https://github.com/codeskyblue/gohttpserver).
 
+Add some features as below:
+
+- [x] Namespace with basic auth.
+- [ ] Multi-user login.
+
 ---
 
 Make the best HTTP File Server. Better UI, upload support, apple&android install package qrcode generate.
