@@ -2,7 +2,7 @@
 
 Forked and augmented from [gohttpserver](https://github.com/codeskyblue/gohttpserver).
 
-Add some features as below:
+Add extra features as below:
 
 - [x] Namespace with basic auth.
 - [ ] Multi-user login.
